@@ -1,0 +1,29 @@
+[server]
+headless = true
+runOnSave = false
+
+[browser]
+gatherUsageStats = false
+
+[client]
+toolbarMode = "minimal"
+
+[theme]
+base = "dark"
+primaryColor = "#4C8DFF"
+backgroundColor = "#10151D"
+secondaryBackgroundColor = "#18212D"
+textColor = "#E8EDF4"
+borderColor = "#2B3645"
+showWidgetBorder = true
+baseRadius = "small"
+linkColor = "#4C8DFF"
+codeTextColor = "#A2ADBD"
+codeBackgroundColor = "#18212D"
+blueColor = "#4C8DFF"
+greenColor = "#4BAE7C"
+orangeColor = "#D7A64B"
+yellowColor = "#D7A64B"
+redColor = "#E46B6B"
+grayColor = "#A2ADBD"
+grayTextColor = "#A2ADBD"

@@ -1,0 +1,102 @@
+{
+  "references": [
+    {
+      "id": "cisa_phishing",
+      "title": "CISA: Recognize and Report Phishing",
+      "url": "https://www.cisa.gov/secure-our-world/recognize-and-report-phishing",
+      "publisher": "CISA",
+      "verified": true
+    },
+    {
+      "id": "ncsc_phishing",
+      "title": "NCSC: Phishing guidance",
+      "url": "https://www.ncsc.gov.uk/guidance/phishing",
+      "publisher": "NCSC",
+      "verified": true
+    },
+    {
+      "id": "ncsc_avoid_phishing",
+      "title": "NCSC: Avoiding phishing attacks",
+      "url": "https://www.ncsc.gov.uk/collection/small-business-guide/avoiding-phishing-attacks",
+      "publisher": "NCSC",
+      "verified": true
+    },
+    {
+      "id": "cisa_passwords",
+      "title": "CISA: Use Strong Passwords",
+      "url": "https://www.cisa.gov/secure-our-world/use-strong-passwords",
+      "publisher": "CISA",
+      "verified": true
+    },
+    {
+      "id": "cisa_mfa",
+      "title": "CISA: Turn On Multifactor Authentication",
+      "url": "https://www.cisa.gov/secure-our-world/turn-mfa",
+      "publisher": "CISA",
+      "verified": true
+    },
+    {
+      "id": "ncsc_password_managers",
+      "title": "NCSC: Password managers",
+      "url": "https://www.ncsc.gov.uk/collection/top-tips-for-staying-secure-online/password-managers",
+      "publisher": "NCSC",
+      "verified": true
+    },
+    {
+      "id": "nist_800_63b",
+      "title": "NIST SP 800-63B Digital Identity Guidelines (Authentication)",
+      "url": "https://pages.nist.gov/800-63-4/sp800-63b.html",
+      "publisher": "NIST",
+      "verified": true
+    },
+    {
+      "id": "ncsc_malware",
+      "title": "NCSC: Mitigating malware and ransomware attacks",
+      "url": "https://www.ncsc.gov.uk/guidance/mitigating-malware-and-ransomware-attacks",
+      "publisher": "NCSC",
+      "verified": true
+    },
+    {
+      "id": "ncsc_protect_malware",
+      "title": "NCSC: Protecting your organisation from malware",
+      "url": "https://www.ncsc.gov.uk/collection/small-business-guide/protecting-your-organisation-malware",
+      "publisher": "NCSC",
+      "verified": true
+    },
+    {
+      "id": "cisa_updates",
+      "title": "CISA: Update Software",
+      "url": "https://www.cisa.gov/secure-our-world/update-software",
+      "publisher": "CISA",
+      "verified": true
+    },
+    {
+      "id": "ncsc_updates",
+      "title": "NCSC: Install the latest software and app updates",
+      "url": "https://www.ncsc.gov.uk/collection/top-tips-for-staying-secure-online/install-the-latest-software-and-app-updates",
+      "publisher": "NCSC",
+      "verified": true
+    },
+    {
+      "id": "ncsc_backups",
+      "title": "NCSC: Backing up your data",
+      "url": "https://www.ncsc.gov.uk/collection/small-business-guide/backing-your-data",
+      "publisher": "NCSC",
+      "verified": true
+    },
+    {
+      "id": "ncsc_iam",
+      "title": "NCSC: Identity and access management",
+      "url": "https://www.ncsc.gov.uk/collection/10-steps/identity-and-access-management",
+      "publisher": "NCSC",
+      "verified": true
+    },
+    {
+      "id": "ico_data_security",
+      "title": "ICO: A guide to data security",
+      "url": "https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/security/a-guide-to-data-security/",
+      "publisher": "ICO",
+      "verified": true
+    }
+  ]
+}
